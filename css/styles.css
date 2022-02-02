@@ -72,6 +72,8 @@ body {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
+
+  cursor: pointer;
 }
 .section-title {
   color: var(--title-text-color);
@@ -126,6 +128,8 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625;
+
+  cursor: pointer;
 }
 .filter-button:hover,
 .filter-button:focus {
