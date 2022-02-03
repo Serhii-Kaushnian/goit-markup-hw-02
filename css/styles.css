@@ -118,7 +118,7 @@ body {
   letter-spacing: 0.03em;
 }
 /* Team section */
-.team-section {
+.team {
   background-color: var(--secondary-bg-color);
 }
 .team-title {
