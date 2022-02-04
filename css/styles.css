@@ -64,6 +64,14 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
+.contact-list a {
+  color: var(--primary-text-color);
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
 /* Hero section  */
 
 .hero {
@@ -196,13 +204,14 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
 }
+
 .projects-list-text {
   color: var(--primary-text-color);
-
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
 }
 .projects-list a {
   text-decoration: none;
+  /* color: inherit; */
 }
